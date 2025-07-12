@@ -270,12 +270,7 @@
 Are you crazy about making easy for newbies and other web artisans to easily get a comprehensive list of laravel open source projects? If yes,you can `fork` this repository, `contribute` and `submit a pull request` or send a mail to `gtkbrain@gmail.com`. I will really love it.
 
 ## Credit
-- Open Laravel
+- Swet Prakash
 
-##  You want to appreciate me?
+     and co-helper and Team *Soyam Arya*
 
-You can appreciate me by **starring** this repository and follow me on [Github](https://github.com/goodnesskay) , [twitter](https://twitter.com/goodnesskayode) and subscribe to my [Youtube](https://www.youtube.com/channel/UC3h5EkjLBS5VtpJRVRrMD-Q) Channel!
-
-I love you too.
-
-**Goodness Kayode | Pusher of Codes**
