@@ -15,65 +15,65 @@
 | [Akaunting](https://akaunting.com)[P]                    |       Free and Online accounting software. Manage your money. Get invoices paid. Track expenses.         |	[Swet Prakash](https://github.com/akaunting/akaunting)				|	
 | [Laravel-AdaptCMS](https://www.adaptcms.com)[P]                    |       AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website.        |	[Swet Prakash](https://github.com/swetp920/))				|	
 | [Swet Prakash](https://github.com/swetp920/)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[swet prakash()				|	
-| [Swet Prakashhttps://github.com/swetp920/ [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
+| [Swet Prakashhttps://github.com/swetp920/ [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [Swet Prakash]() |
 | [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [Swet Prakash ]() |
 | [laravel-admin](https://github.com/z-song/laravel-admin) [P] |  A Laravel 5.5.x, PHP 7.0.x and AdminLTE project | [Swet Prakash ]((https://github.com/swetp920/) |
-| [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built in Auhentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [jeremykenedy]() |
+| [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built in Auhentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [Swet Prakash]() |
 
 ## <a name="B"> </a>B
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-| [Bagisto](https://github.com/bagisto/bagisto) [P] | Bagisto is a hand tailored E-Commerce framework built on some of the hottest opensource technologies such as Laravel (a PHP framework) and Vue.js a progressive Javascript framework. | [Webkul](https://webkul.com/) |
-| [BlogEtc](https://github.com/WebDevEtc/BlogEtc) [P] | Blog system for your laravel app (includes admin backend for managing posts). All views, controllers, routes, models, etc are included, and there are many config options for managing your blog. | [webdevetc](https://webdevetc.com/)|
+| [Bagisto](https://github.com/bagisto/bagisto) [P] | Bagisto is a hand tailored E-Commerce framework built on some of the hottest opensource technologies such as Laravel (a PHP framework) and Vue.js a progressive Javascript framework. | [Soyam Arya(https://Github.com/honestcorrupt) |
+| [BlogEtc](https://github.com/WebDevEtc/BlogEtc) [P] | Blog system for your laravel app (includes admin backend for managing posts). All views, controllers, routes, models, etc are included, and there are many config options for managing your blog. | [Swet Prakash](https://github.com/swetp920/)|
 | [LaraBug](https://github.com/Cannonb4ll/LaraBug) [P] | Error reporting tool for Laravel | [cannonb4ll]()|
-|   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
+|   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Swet Prakash()			|	
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
-| [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
-| [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [msurguy]()|
-| [Laravel Backbone-Pagination](https://github.com/msurguy/laravel-backbone-pagination) [T] | Awesome in-place pagination using Laravel + Backbone, also a tutorial | [msurguy]()|
+| [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [Swet Prakash(https://github.com/swetp920/) |
+| [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [Swet Prakash]https://github.com/swetp920/|
+| [Laravel Backbone-Pagination](https://github.com/msurguy/laravel-backbone-pagination) [T] | Awesome in-place pagination using Laravel + Backbone, also a tutorial | [mSwet Prakashhttps://github.com/swetp920/|
 
 ## <a name="C"> </A>C
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-| [Cachet](https://github.com/cachethq/Cachet) [P] | Cachet is a beautiful and powerful open source status page system. | [CachetHQ]()|
+| [Cachet](https://github.com/cachethq/Cachet) [P] | Cachet is a beautiful and powerful open source status page system. | [Swet Prakash()|
 |       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				 [padosoft]() |
-| [Laravel Corcel](http://github.com/jgrossi/corcel) [P] | Laravel is the most used PHP framework, and WordPress is the most used CMS in the world. If you want to have both sides in a unique application just use Corcel. You can create your administration panel using WordPress, with users, custom fields, custom post types, etc, but getting all the information inside your Laravel app, with custom models reading directly from the WordPress database. | [corcel]() |	
-| 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
-| 		[Laravel Cloudinary App](https://github.com/msurguy/critterapp) [T] | Demo application and tutorial on how you can build a file or image upload module using Laravel and Cloudinary | [dotunj]() |
+| [Laravel Corcel](http://github.com/jgrossi/corcel) [P] | Laravel is the most used PHP framework, and WordPress is the most used CMS in the world. If you want to have both sides in a unique application just use Corcel. You can create your administration panel using WordPress, with users, custom fields, custom post types, etc, but getting all the information inside your Laravel app, with custom models reading directly from the WordPress database. | [Swet Prakash]() |	
+| 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [Swet Prasksh]https://github.com/swetp920/|
+| 		[Laravel Cloudinary App](https://github.com/msurguy/critterapp) [T] | Demo application and tutorial on how you can build a file or image upload module using Laravel and Cloudinary | [Swet Prakash]https://github.com/swetp920/ |
 
 ## <a name="D"> </a>D
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Doptor]()			|	
-| [Laravel DClassifieds](https://github.com/gdinko/dclassifieds.laravel) [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [gdinko]() |
-|  [Dusk Interactive](https://packagist.org/packages/laracademy/dusk-interactive) [P] | Dusk Interactive is a CLI package for Laravel Dusk. It makes selecting specific tests easier. | [laracademy]()|
-|  [Directory Manager](https://github.com/damcclean/DirectoryManager) [P] | Directory Manager is a web-based management portal for Active Directory administrators. | [damcclean]()|
+|    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Swet Prakash]()			|	
+| [Laravel DClassifieds](https://github.com/gdinko/dclassifieds.laravel) [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [Swet Praksh](https://github.com/swetp920/) |
+|  [Dusk Interactive](https://packagist.org/packages/laracademy/dusk-interactive) [P] | Dusk Interactive is a CLI package for Laravel Dusk. It makes selecting specific tests easier. | [Swet Prakash ](https://github.com/swetp920/)|
+|  [Directory Manager](https://github.com/damcclean/DirectoryManager) [P] | Directory Manager is a web-based management portal for Active Directory administrators. | [Swet Prakash](https://github.com/swetp920/)|
 
 ## <a name="E"> </a>E
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|   [Laravel Exception Notifier](https://github.com/jeremykenedy/laravel-exception-notifier)                    |          Laravel exception notifier will send an email of the error along with the stack trace to the chosen recipients. This Package includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, and 5.4+.     |	[jeremykenedy]()				|	
+|   [Laravel Exception Notifier](https://github.com/jeremykenedy/laravel-exception-notifier)                    |          Swet Prakash notifier will send an email of the error along with the stack trace to the chosen recipients. This Package includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, and 5.4+.     |	[Swet Prakash]()				|	
 
 ## <a name="F"> </a>F
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|  [Laravel-facebook-login](https://github.com/msurguy/laravel-facebook-login) [T]         |  Tutorial and demo app for Integrating "Login with Facebook" in a Laravel application  |		[msurguy]()			|
-| [Laravel File Generators](https://github.com/bpocallaghan/generators) [P] | Custom Laravel 5 File Generators with a config file and publishable stubs. You can create new stubs and it in the config. | [bpocallaghan]() |
-| [Laravel Flarum](https://github.com/flarum/core) [P] | Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free. | [flarum]() |
-| [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [msurguy]() |	
-| [Laravel Flash Alert](https://github.com/bpocallaghan/alert) [P] | A helper package to flash a bootstrap alert to the browser via a Facade or a helper function.| [bpocallaghan]() |
-| [Laravel FTP](https://github.com/Cannonb4ll/LaravelFtp) [P] | A FTP helper package for Laravel | [cannonb4ll]() |
-| [Laravel FreeScout](https://github.com/freescout-helpdesk/freescout) [P] | FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout. | [FreeScout](https://github.com/freescout-helpdesk) |
+|  [Laravel-facebook-login](https://github.com/msurguy/laravel-facebook-login) [T]         |  Tutorial and demo app for Integrating "Login with Facebook" in a Laravel application  |		[Swet Prakash]()			|
+| [Laravel File Generators](https://github.com/bpocallaghan/generators) [P] | Custom Laravel 5 File Generators with a config file and publishable stubs. You can create new stubs and it in the config. | [Swet Prakash]() |
+| [Laravel Flarum](https://github.com/flarum/core) [P] | Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free. | [Swet Prakash]() |
+| [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [Swet Praksh]() |	
+| [Laravel Flash Alert](https://github.com/bpocallaghan/alert) [P] | A helper package to flash a bootstrap alert to the browser via a Facade or a helper function.| [Swet Prakash]() |
+| [Swet Prakash ](https://github.com/swetp920/) [P] | A FTP helper package for Laravel | [Swet Prakash]() |
+| [Laravel FreeScout](https://github.com/freescout-helpdesk/freescout) [P] | FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout. | [Swet Prakash ](https://github.com/swetp920/) |
 
 ## <a name="G"> </a>G
 
