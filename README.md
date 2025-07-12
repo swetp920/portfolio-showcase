@@ -1,4 +1,4 @@
-# Laravel-Open-Source-Projects
+# Swet Prakash ,Friends and Team Projects
 > A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Pushing Codes!!!
 
 ## Features
