@@ -12,12 +12,12 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-| [Akaunting](https://akaunting.com)[P]                    |       Free and Online accounting software. Manage your money. Get invoices paid. Track expenses.         |	[akaunting](https://github.com/akaunting/akaunting)				|	
-| [Laravel-AdaptCMS](https://www.adaptcms.com)[P]                    |       AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website.        |	[adaptcms](https://github.com/adaptcms/adaptcms)				|	
-| [Laravel-Apiato](https://github.com/apiato/apiato)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[apiato]()				|	
-| [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
-| [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [jeremykenedy]() |
-| [laravel-admin](https://github.com/z-song/laravel-admin) [P] |  A Laravel 5.5.x, PHP 7.0.x and AdminLTE project | [z-song]((https://github.com/z-song) |
+| [Akaunting](https://akaunting.com)[P]                    |       Free and Online accounting software. Manage your money. Get invoices paid. Track expenses.         |	[Swet Prakash](https://github.com/akaunting/akaunting)				|	
+| [Laravel-AdaptCMS](https://www.adaptcms.com)[P]                    |       AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website.        |	[Swet Prakash](https://github.com/swetp920/))				|	
+| [Swet Prakash](https://github.com/swetp920/)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[swet prakash()				|	
+| [Swet Prakashhttps://github.com/swetp920/ [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
+| [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [Swet Prakash ]() |
+| [laravel-admin](https://github.com/z-song/laravel-admin) [P] |  A Laravel 5.5.x, PHP 7.0.x and AdminLTE project | [Swet Prakash ]((https://github.com/swetp920/) |
 | [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built in Auhentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [jeremykenedy]() |
 
 ## <a name="B"> </a>B
